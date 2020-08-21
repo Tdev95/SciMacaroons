@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Pipenv related files
+Pipfile
+Pipfile.lock
+
+# Test scripts
+*.bat
+
+# Sphinx documentation
+docs/_build/
+
+# distribution/packaging
+build/
+dist/
+*.egg-info
